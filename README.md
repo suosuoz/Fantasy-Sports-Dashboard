@@ -8,4 +8,4 @@ It is fully automated site coded in Google Sheets (similar to Excel) that utiliz
 
 The dashboard displays the rosters, scoreboard, standings, stats, and past weeks' scores.
 
-Check it out here: https://docs.google.com/spreadsheets/d/1GYz653j9Vs96wrNCe9ZxuRCMTztlG1yTzh1dfGF2bB8/edit?usp=sharing
+Check it out here: https://bit.ly/30zrmlm
